@@ -32,8 +32,8 @@ Apaixonado por resolver problemas complexos através de código, automação, mo
 ### 📊 Minhas Estatísticas do GitHub
 
 <div align="center">
-	<img src="https://github-readme-stats.vercel.app/api?username=KauHenri&show_icons=true&theme=radium&hide_border=true" alt="Estatísticas do Kauã" />
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauHenri&layout=compact&theme=radium&hide_border=true" alt="Linguagens mais usadas" />
+	<img src="https://github-readme-stats.vercel.app/api?username=KauHenri&amp;show_icons=true&amp;theme=radium&amp;hide_border=true" alt="Estatísticas do Kauã" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauHenri&amp;layout=compact&amp;theme=radium&amp;hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
